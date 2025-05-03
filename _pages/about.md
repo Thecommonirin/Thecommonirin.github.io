@@ -19,9 +19,9 @@ redirect_from:
 
 # ✨ About Me 
 
-I am currently pursuing my Ph.D. at the Visual Intelligence and Pattern Analysis (VIPA) Lab at Zhejiang University, under the guidance of Prof. Zunlei Feng and Prof. Mingli Song. Throughout my doctoral journey, I have also benefited greatly from the mentorship and invaluable support of Prof. Jian Lou.
+I'm currently a Ph.D. student at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, where I’m fortunate to be advised by Prof. Zunlei Feng and Prof. Mingli Song. I also deeply appreciate the mentorship and generous support of Prof. Jian Lou throughout my research journey.
 
-My research primarily centers on Trustworthy Generative AI and Efficient Deep Learning. I will keep my personal updates and progress regularly posted on this homepage. 
+My work focuses on Trustworthy Generative AI and Efficient Deep Learning. I’ll be sharing updates and progress here from time to time!
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -33,7 +33,16 @@ My research primarily centers on Trustworthy Generative AI and Efficient Deep Le
   <p>(* indicates equal contribution.)</p>
   <ul>
     <li class="paper-box-new">
-      <span class="sec-conference blue">ECAI 2024</span>
+      <span class="sec-conference green">ICML 2025</span>
+      <strong>Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models 
+      Model</strong>
+      ｜<a href="https://openreview.net/pdf?id=jywq7qJLt5"><strong>Pdf</strong></a>
+      ｜<a href="https://github.com/Thecommonirin/Qresafe"><strong>Code</strong></a>
+      <br>
+      <em>Kejia Chen, Jiawen Zhang, Jiacong Hu, Yu Wang, Mingli Song, Jian Lou, Zunlei Feng</em>
+    </li>
+    <li class="paper-box-new">
+      <span class="sec-conference green">ECAI 2024</span>
       <strong>SecPE: Secure Prompt Ensembling for Private and Robust Large Language Model</strong>
       ｜<a href="https://openreview.net/pdf?id=HASQ93Is7JT"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Kevin-Zh-CS/SecPE"><strong>Code</strong></a>
@@ -41,7 +50,7 @@ My research primarily centers on Trustworthy Generative AI and Efficient Deep Le
       <em>Jiawen Zhang*, Kejia Chen*, Zunlei Feng, Mingli Song, Jian Liu, Jian Lou, Xiaohu Yang</em>
     </li>
     <li class="paper-box-new">
-      <span class="sec-conference green">NDSS 2025</span>
+      <span class="sec-conference blue">NDSS 2025</span>
       <strong>Nexus: Secure Transformer Inference Made Non-interactive</strong>
       ｜<a href="https://eprint.iacr.org/2024/136"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/zju-abclab/NEXUS"><strong>Code</strong></a>
@@ -49,7 +58,7 @@ My research primarily centers on Trustworthy Generative AI and Efficient Deep Le
       <em>Jiawen Zhang, Xinpeng Yang, Lipeng He, Kejia Chen, Wen-jie Lu, Yinghao Wang, Xiaoyang Hou, Jian Liu, Kui Ren, Xiaohu Yang</em>
     </li>
     <li class="paper-box-new">
-      <span class="sec-conference red">NeurIPS 2024</span>
+      <span class="sec-conference blue">NeurIPS 2024</span>
       <strong>Transformer-Doctor: Diagnosing and Treating Vision Transformers</strong>
       ｜<a href="https://openreview.net/pdf?id=chnJT8Nj8X"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/jiaconghu/Transformer-Doctor"><strong>Code</strong></a>
