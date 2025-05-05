@@ -39,7 +39,7 @@ My work focuses on Trustworthy Generative AI and Efficient Deep Learning. I’ll
       ｜<a href="https://openreview.net/pdf?id=jywq7qJLt5"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Thecommonirin/Qresafe"><strong>Code</strong></a>
       <br>
-      <em>Kejia Chen, Jiawen Zhang, Jiacong Hu, Yu Wang, Mingli Song, Jian Lou, Zunlei Feng</em>
+      <em>Kejia Chen*, Jiawen Zhang*, Jiacong Hu, Yu Wang, Mingli Song, Jian Lou, Zunlei Feng</em>
     </li>
     <li class="paper-box-new">
       <span class="sec-conference green">ECAI 2024</span>
