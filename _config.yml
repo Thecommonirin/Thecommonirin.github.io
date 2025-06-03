@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kejia Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/irin.png"
   bio              : "PhD student at ZJU"
   location         : "Hangzhou, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Thecommonirin"
   google_plus      :
   keybase          :
   instagram        :
