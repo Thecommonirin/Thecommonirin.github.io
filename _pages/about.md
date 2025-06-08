@@ -19,7 +19,7 @@ redirect_from:
 
 # ✨ About Me
 
-I'm currently a Ph.D. student at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, where I’m fortunate to be advised by Prof. Zunlei Feng and Prof. Mingli Song. I also deeply appreciate the mentorship and generous support of Prof. Jian Lou throughout my research journey.
+I'm currently a Ph.D. student at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). I also gratefully acknowledge the guidance and support of Prof. [Jian Lou](https://sites.google.com/view/jianlou) in my research journey.
 
 ## 🔬 Research Interests
 
@@ -45,7 +45,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
       <strong>Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense 
       Model</strong>
       ｜<a href="https://arxiv.org/abs/2502.00840"><strong>Pdf</strong></a>
-      <!-- ｜<a href="https://github.com/Thecommonirin/Qresafe"><strong>Code</strong></a> -->
+      ｜<a href="https://github.com/Kevin-Zh-CS/QuadA"><strong>Code</strong></a>
       <br>
       <em>Jiawen Zhang*, Kejia Chen*, Lipeng He, Jian Lou, Dan Li, Zunlei Feng, Mingli Song, Kui Ren, Xiaohu Yang</em>
     </li>
@@ -61,7 +61,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
     <li class="paper-box-new">
       <span class="sec-conference green">ECAI 2024</span>
       <strong>SecPE: Secure Prompt Ensembling for Private and Robust Large Language Model</strong>
-      ｜<a href="https://openreview.net/pdf?id=HASQ93Is7JT"><strong>Pdf</strong></a>
+      ｜<a href="https://arxiv.org/pdf/2502.00847"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Kevin-Zh-CS/SecPE"><strong>Code</strong></a>
       <br>
       <em>Jiawen Zhang*, Kejia Chen*, Zunlei Feng, Mingli Song, Jian Liu, Jian Lou, Xiaohu Yang</em>
@@ -101,6 +101,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
 - **Conference on Computer Vision and Pattern Recognition (CVPR)**
 - **International Conference on Computer Vision (ICCV)**
 - **Conference on Neural Information Processing Systems (NeurIPS)**
+- **Conference on Empirical Methods in Natural Language Processing (EMNLP)**
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
