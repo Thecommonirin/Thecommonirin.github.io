@@ -43,8 +43,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
   <ul>
   <li class="paper-box-new">
       <span class="sec-conference purple">PR 2026</span>
-      <strong>Self-Improved Holistic Alignment for Preference Enhancement 
-      Model</strong>
+      <strong>Self-Improved Holistic Alignment for Preference Enhancement</strong>
       ｜<a href="https://thecommonirin.github.io/"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Thecommonirin/SHAPE"><strong>Code</strong></a>
       <br>
