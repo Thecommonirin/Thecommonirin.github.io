@@ -19,7 +19,9 @@ redirect_from:
 
 # ✨ About Me
 
-I'm currently a Ph.D. student at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, advised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). I also gratefully acknowledge the guidance and support of Prof. [Jian Lou](https://sites.google.com/view/jianlou) in my research journey.
+I'm a Ph.D. candidate at the Visual Intelligence and Pattern Analysis (VIPA) Lab, Zhejiang University, supervised by Prof. [Zunlei Feng](https://person.zju.edu.cn/fengzunlei) and Prof. [Mingli Song](https://scholar.google.com/citations?user=7oLbhAwAAAAJ&hl=en). Additionally, my research has been significantly shaped by the insightful support of Prof. [Jian Lou](https://sites.google.com/view/jianlou) and Prof. [Ruoxi Jia](https://ruoxijia.net/).
+
+Presently, I am a visiting student at Nanyang Technological University, working under the esteemed supervision of Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 
 ## 🔬 Research Interests
 
@@ -37,9 +39,26 @@ I’ll be sharing research updates and progress here from time to time—stay tu
 
 # 📝 Publications 
 <div>
-  <h2>Publications</h2>
   <p>(* indicates equal contribution.)</p>
   <ul>
+  <li class="paper-box-new">
+      <span class="sec-conference purple">PR 2026</span>
+      <strong>Self-Improved Holistic Alignment for Preference Enhancement 
+      Model</strong>
+      ｜<a href="https://thecommonirin.github.io/"><strong>Pdf</strong></a>
+      ｜<a href="https://github.com/Thecommonirin/SHAPE"><strong>Code</strong></a>
+      <br>
+      <em>Kejia Chen, Jiawen Zhang, Jiazheng Yang, Zunlei Feng, Mingli Song</em>
+  </li>
+  <li class="paper-box-new">
+      <span class="sec-conference purple">ICLR 2026</span>
+      <strong>Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance 
+      Model</strong>
+      ｜<a href="https://arxiv.org/abs/2601.01887"><strong>Pdf</strong></a>
+      ｜<a href="https://github.com/Kevin-Zh-CS/safety-at-one-shot"><strong>Code</strong></a>
+      <br>
+      <em>Jiawen Zhang, Lipeng He, Kejia Chen, Jian Lou, Jian Liu, Xiaohu Yang, Ruoxi Jia</em>
+  </li>
   <li class="paper-box-new">
       <span class="sec-conference pink">Usenix 2025</span>
       <strong>Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense 
@@ -96,12 +115,11 @@ I’ll be sharing research updates and progress here from time to time—stay tu
 <span class='anchor' id='review-services'></span>
 
 # 📖 Review Services 
+I am honored to contribute to the research community as a technical reviewer for several premier conferences and journals in AI and Security. 
 
-- **Annual Meeting of the Association for Computational Linguistics (ACL)**
-- **Conference on Computer Vision and Pattern Recognition (CVPR)**
-- **International Conference on Computer Vision (ICCV)**
-- **Conference on Neural Information Processing Systems (NeurIPS)**
-- **Conference on Empirical Methods in Natural Language Processing (EMNLP)**
+My service includes:
+- Conference Program Committee: ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV, ACL, EMNLP.
+- Journal Peer Review: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Information Forensics and Security (TIFS).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

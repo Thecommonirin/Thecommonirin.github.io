@@ -82,18 +82,37 @@
       }
     }
   }
+a {
+    text-decoration: none;      /* 彻底禁用默认下划线 */
+    color: #7d8c9e;             /* 莫兰迪蓝灰，比正文淡一点点，显精致 */
+    border-bottom: 1px solid transparent; /* 预留底线位置，防止悬停时文字抖动 */
+    transition: all 0.2s ease-in-out;
 
-  a {
-    text-decoration: underline;
+    strong {
+      color: #6a7785;           /* 让加粗的 PDF/Code 字样颜色更有质感 */
+    }
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: #d8b4a6;           /* 悬停转为莫兰迪粉褐色 */
+      border-bottom: 1px solid #d8b4a6; /* 悬停时出现纤细的底线 */
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 10px rgba(#000, 0.1);
       }
     }
   }
+  // a {
+  //   text-decoration: underline;
+
+  //   &:hover {
+  //     text-decoration: underline;
+
+  //     img {
+  //       box-shadow: 0 0 10px rgba(#000, 0.25);
+  //     }
+  //   }
+  // }
 
   dt {
     margin-top: 1em;
@@ -257,42 +276,51 @@
   text-transform: uppercase;
 }
 
-
-/* ==========================================================================
-   Conference Badge Styles
-   ========================================================================== */
-
-   .sec-conference {
-    display: inline-block;
-    padding: 5px 10px;
-    font-size: 12px;
-    font-weight: bold;
-    color: white;
-    border-radius: 5px;
-    margin-right: 10px;
-    text-align: center;
-    vertical-align: middle;
-  
-    &.blue {
-      background-color: #a0c1d1; 
-    }
-  
-    &.green {
-      background-color: #b5cbbb;
-    }
-  
-    &.pink {
-      background-color: #d8b4a6;
-    }
-
-    &.purple {
-      background-color: #BFAEC8;
-    }
-
-    &.beige {
-      background-color: #D6C3B3;
-    }
+/* 插入到 .sec-conference 之前 */
+.paper-box-new {
+  transition: transform 0.3s ease; 
+  &:hover {
+    transform: translateX(8px); // 悬停时轻微右移
   }
+}
+
+.sec-conference {
+  display: inline-block;
+  padding: 3px 10px;      // 稍微收紧高度
+  font-size: 12px;       // 字号减小 1px 更精致
+  letter-spacing: 0.5px; // 增加字母间距
+  font-weight: bold;
+  text-transform: uppercase; // 全大写
+  border-radius: 3px;    // 减小圆角，更干练
+  margin-right: 10px;
+  text-align: center;
+  vertical-align: middle;
+
+  &.blue {
+    background-color: rgba(150, 194, 216, 0.25); // 25%透明度
+    color: #5a7d8e;                             // 深色文字
+  }
+
+  &.green {
+    background-color: rgba(176, 212, 185, 0.25);
+    color: #6b8a74;
+  }
+
+  &.pink {
+    background-color: rgba(229, 191, 176, 0.25);
+    color: #9d7463;
+  }
+
+  &.purple {
+    background-color: rgba(214, 191, 227, 0.25);
+    color: #7a6684;
+  }
+
+  &.beige {
+    background-color: rgba(230, 206, 187, 0.25);
+    color: #8c7665;
+  }
+}
   
 
 
