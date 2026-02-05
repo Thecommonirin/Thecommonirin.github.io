@@ -51,8 +51,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
   </li>
   <li class="paper-box-new">
       <span class="sec-conference purple">ICLR 2026</span>
-      <strong>Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance 
-      Model</strong>
+      <strong>Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance</strong>
       ｜<a href="https://arxiv.org/abs/2601.01887"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Kevin-Zh-CS/safety-at-one-shot"><strong>Code</strong></a>
       <br>
@@ -60,8 +59,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
   </li>
   <li class="paper-box-new">
       <span class="sec-conference pink">Usenix 2025</span>
-      <strong>Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense 
-      Model</strong>
+      <strong>Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense</strong>
       ｜<a href="https://arxiv.org/abs/2502.00840"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Kevin-Zh-CS/QuadA"><strong>Code</strong></a>
       <br>
@@ -69,8 +67,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
     </li>
     <li class="paper-box-new">
       <span class="sec-conference pink">ICML 2025</span>
-      <strong>Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models 
-      Model</strong>
+      <strong>Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models</strong>
       ｜<a href="https://openreview.net/pdf?id=jywq7qJLt5"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Thecommonirin/Qresafe"><strong>Code</strong></a>
       <br>
@@ -78,7 +75,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
     </li>
     <li class="paper-box-new">
       <span class="sec-conference green">ECAI 2024</span>
-      <strong>SecPE: Secure Prompt Ensembling for Private and Robust Large Language Model</strong>
+      <strong>SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models</strong>
       ｜<a href="https://arxiv.org/pdf/2502.00847"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Kevin-Zh-CS/SecPE"><strong>Code</strong></a>
       <br>
