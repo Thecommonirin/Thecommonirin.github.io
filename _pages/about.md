@@ -42,6 +42,22 @@ I’ll be sharing research updates and progress here from time to time—stay tu
   <p>(* indicates equal contribution.)</p>
   <ul>
   <li class="paper-box-new">
+      <span class="sec-conference purple">CCS 2026</span>
+      <strong>Understanding and Preserving Safety in Fine-Tuned LLMs</strong>
+      ｜<a href="https://arxiv.org/abs/2601.10141"><strong>Pdf</strong></a>
+      <!-- ｜<a href="https://github.com/Thecommonirin/TITA"><strong>Code</strong></a> -->
+      <br>
+      <em>Jiawen Zhang, Yangfan Hu, Kejia Chen, Lipeng He, Jiachen Ma, Jian Lou, Dan Li, Jian Liu, Xiaohu Yang, Ruoxi Jia</em>
+  </li>
+  <li class="paper-box-new">
+      <span class="sec-conference purple">ACL 2026</span>
+      <strong>Token-Level Inference-Time Alignment for Vision-Language Models</strong>
+      ｜<a href="https://arxiv.org/abs/2510.21794"><strong>Pdf</strong></a>
+      ｜<a href="https://github.com/Thecommonirin/TITA"><strong>Code</strong></a>
+      <br>
+      <em>Kejia Chen, Junjun Zheng, Jiawen Zhang, Manxi Lin, Xiao Pan, Jiacong Hu, Jian Lou, Zunlei Feng, Mingli Song</em>
+  </li>
+  <li class="paper-box-new">
       <span class="sec-conference purple">PR 2026</span>
       <strong>Self-Improved Holistic Alignment for Preference Enhancement</strong>
       ｜<a href="https://thecommonirin.github.io/"><strong>Pdf</strong></a>
