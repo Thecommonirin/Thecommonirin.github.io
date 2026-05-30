@@ -60,7 +60,7 @@ I’ll be sharing research updates and progress here from time to time—stay tu
   <li class="paper-box-new">
       <span class="sec-conference purple">PR 2026</span>
       <strong>Self-Improved Holistic Alignment for Preference Enhancement</strong>
-      ｜<a href="https://thecommonirin.github.io/"><strong>Pdf</strong></a>
+      ｜<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320326002037"><strong>Pdf</strong></a>
       ｜<a href="https://github.com/Thecommonirin/SHAPE"><strong>Code</strong></a>
       <br>
       <em>Kejia Chen, Jiawen Zhang, Jiazheng Yang, Zunlei Feng, Mingli Song</em>
